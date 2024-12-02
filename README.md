@@ -6,6 +6,34 @@ Daily programming puzzles at [Advent of Code](<https://adventofcode.com/>), by
 [Eric Wastl](<http://was.tl/>). This is a small example starter project for
 building Advent of Code solutions.
 
+## Days Completed
+Day01: ☆☆<br>
+Day02: ☆☆<br>
+Day03: ☆☆<br>
+Day04: ☆☆<br>
+Day05: ☆☆<br>
+Day06: ☆☆<br>
+Day07: ☆☆<br>
+Day08: ☆☆<br>
+Day09: ☆☆<br>
+Day10: ☆☆<br>
+Day11: ☆☆<br>
+Day12: ☆☆<br>
+Day13: ☆☆<br>
+Day14: ☆☆<br>
+Day15: ☆☆<br>
+Day16: ☆☆<br>
+Day17: ☆☆<br>
+Day18: ☆☆<br>
+Day19: ☆☆<br>
+Day20: ☆☆<br>
+Day20: ☆☆<br>
+Day21: ☆☆<br>
+Day22: ☆☆<br>
+Day23: ☆☆<br>
+Day24: ☆☆<br>
+Day25: ☆☆<br>
+
 ## Usage
 
 Swift comes with Xcode, or you can [install it](https://www.swift.org/install/)
